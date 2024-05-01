@@ -1,6 +1,6 @@
 # d3-tutorial
 
-This tutorial provides and introduction to D3.js!
+This tutorial provides and introduction to D3.js
 
 - [01 Intro to D3](01-intro-to-d3)
 - [02 Working SVG](02-Working-svg)
